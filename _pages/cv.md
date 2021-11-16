@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="https://zaidsheikh.github.io/files/CV.pdf" type="application/pdf" width="600px" height="500px" />
+<a href="https://zaidsheikh.github.io/files/CV.pdf">Resume (PDF)</a>
+
+<embed src="https://zaidsheikh.github.io/files/CV.pdf"/>
