@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Zaid Sheikh"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Senior Research Programmer at Carnegie Mellon University"
   location         : "Pittsburgh"
-  employer         :
+  employer         : "https://lti.cs.cmu.edu"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=F-GjZNAAAAAJ"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zaidsheikh"
   orcid            : 
   pinterest        :
   soundcloud       :
