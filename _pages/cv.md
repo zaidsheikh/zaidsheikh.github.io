@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://zaidsheikh.github.io/files/CV.pdf">Resume (PDF)</a>
+<a target="_blank" href="https://zaidsheikh.github.io/files/CV.pdf">Resume (PDF)</a>
 
 <embed src="https://zaidsheikh.github.io/files/CV.pdf"/>
